@@ -1,7 +1,7 @@
-# Duncan Dam's Portfolio
+# Bootstrap-Portfolio
 
 ### Live Link:
-**https://duncandam86.github.io/Duncan-Dam-Portfolio/**
+**https://duncandam86.github.io/Bootstrap-Portfolio/**
 
 ### Description:
 * Hi! My name is Duncan. Welcome to my personal website.
