@@ -1,0 +1,92 @@
+/* Frame page */
+.navbar-brand{
+    color: white; 
+    font-size: 30px; 
+    font-family: Raleway, sans-serif; 
+    margin-left: 10px
+    
+}
+
+#navbarNav{
+    margin-left: 750px
+}
+
+.container{
+    background-color:lightgrey; 
+    width: 100%; 
+    height:100%;
+}
+
+h3{
+    padding: 15px 0px 0px 15px; 
+    color: grey; 
+    font-family: Raleway, sans-serif; 
+    font-weight: bold
+}
+
+footer.page-footer{
+    background-color: grey;  
+    width: 100%; 
+    height: 60px; 
+    padding-top: 15px; 
+    text-align: center
+}
+
+#imageFooter{
+    max-width: 3%;
+}
+
+/* Actual page */
+#icon{
+    max-width: 50%
+}
+
+/* Frame page media */
+@media (max-width: 576px){
+    .navbar{
+        width: 100%
+    }
+    #navbarNav{
+        margin-left: 0px
+    }
+    #icon{
+        width: 20%
+    } 
+}
+
+@media (max-width: 768px){
+    .navbar{
+        width: 100%
+    }
+    #navbarNav{
+        margin-left: 0px
+    }
+    #icon{
+        width: 20%
+    }
+}
+
+@media (max-width: 920px){
+    .navbar{
+        width: 100%
+    }
+    #navbarNav{
+        margin-left: 0px
+    }
+    #icon{
+        max-width: 70%
+    }
+}
+
+@media (max-width: 1024px){
+    .navbar{
+        width: 100%
+    }
+    #navbarNav{
+        margin-left: 0px
+    }
+    #icon{
+        max-width: 70%
+    }
+}
+
