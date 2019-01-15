@@ -11,7 +11,11 @@
     margin-left: 750px
 }
 
-
+.container{
+    background-color:lightgrey; 
+    width: 100%; 
+    height:100%;
+}
 footer.page-footer{
     background-color: grey;  
     width: 100%; 
@@ -76,7 +80,7 @@ h3, #textsvg, #word{
         width: 100%
     }
     #navbarNav{
-        margin-left: 500px
+        margin-left: 0px
     }
     
 }
