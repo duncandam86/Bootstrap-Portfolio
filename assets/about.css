@@ -35,6 +35,20 @@ footer.page-footer{
 #imageFooter{
     max-width: 3%;
 }
+/* Actual page */
+.d-block{
+    max-width: 600px;
+    max-height: 370px;
+}
+
+p,li{
+    text-align: justify; 
+    font-family: 'Chivo', sans-serif; 
+    font-size: 15px
+}
+#github, #linkedin{
+    max-width: 35px
+}
 
 @media (max-width: 576px){
     .navbar{
@@ -43,10 +57,8 @@ footer.page-footer{
     #navbarNav{
         margin-left: 0px
     }
-    #icon{
-        width: 20%
-    } 
 }
+
 
 @media (max-width: 768px){
     .navbar{
@@ -55,10 +67,7 @@ footer.page-footer{
     #navbarNav{
         margin-left: 0px
     }
-    #icon{
-        width: 20%
-    }
-    
+   
 }
 
 @media (max-width: 920px){
@@ -68,12 +77,6 @@ footer.page-footer{
     #navbarNav{
         margin-left: 0px
     }
-    #icon{
-        max-width: 70%
-    }
-    #content{
-        margin-left: 10px
-    }
 }
 
 @media (max-width: 1024px){
@@ -82,9 +85,6 @@ footer.page-footer{
     }
     #navbarNav{
         margin-left: 0px
-    }
-    #icon{
-        max-width: 70%
     }
 }
 
