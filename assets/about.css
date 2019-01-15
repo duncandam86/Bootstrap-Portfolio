@@ -36,10 +36,6 @@ footer.page-footer{
     max-width: 3%;
 }
 /* Actual page */
-.d-block{
-    max-width: 600px;
-    max-height: 370px;
-}
 
 p,li{
     text-align: justify; 
